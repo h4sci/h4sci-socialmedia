@@ -283,7 +283,7 @@ class:center,middle
 
 
 
-## <a href="https://h4sci.shinyapps.io/hsm">Survey</a>
+## <a href="https://h4sci.shinyapps.io/hsmd">Survey</a>
 
 
 <div class="my-footer"><span><div class="footer-text" align="right">"Hacking (Social Media) Data" by Dr. Matthias Bannert is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0</a></div></span></div> 
@@ -433,6 +433,14 @@ gg_learn +
 - Free Online Book [Hacking for Social Sciences](https://h4sci.github.io/h4sci-book/)
 - [Hacking (Social Media) Data Slides](https://h4sci.github.io/h4sci-socialmedia/)
 - [Hacking (Social Media) Data Source Code](https://h4sci.github.io/h4sci-socialmedia/)
+
+
+- [Quanteda R package](https://quanteda.io/)
+- [Quanteda Tutorials](https://tutorials.quanteda.io/)
+- [Information is Beautiful](https://informationisbeautiful.net/)
+- [rtweet](https://rtweet.info/)
+- [rOpenSci](https://ropensci.org/)
+
 
 
 
