@@ -5,7 +5,7 @@
 
 This repository contains the slides of my guest appearance in the course *Online Forschung und Social Media* taught at the *University of Applied Sciences and Arts Northwestern Switzerland*. 
 
-The session gives a short introduction to the use of programming in data analysis and data visualization. The talk is directed at non-computer science students, e.g., psychologists what types of analysis. 
+The session gives a short introduction to the use of programming in data analysis and data visualization. The talk is directed at non-computer science students, e.g., psychologists who consider using a programming language for online research. 
 
 ## Slides
 
