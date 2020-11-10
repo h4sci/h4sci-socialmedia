@@ -1,0 +1,241 @@
+---
+title: |
+  Hacking (Social Media) Data
+subtitle: "Why Online Researchers Should Learn to Code"
+author: "@whatsgoodio"
+institute: "KOF, ETH Zurich"
+date: "2020-11-12"
+output:
+  xaringan::moon_reader:
+    css: ["robot-fonts","more.css"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: '16:9'
+      beforeInit: "https://platform.twitter.com/widgets.js"
+---
+
+
+class:center,middle
+
+## Should I Learn to Code in the Nearby Future?
+
+<div class="my-footer"><span><div class="footer-text" align="right">"Hacking (Social Media) Data" by Dr. Matthias Bannert is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0</a></div></span></div> 
+
+
+---
+
+
+class:center,middle
+
+## Don't click and point. Code.
+
+<div class="my-footer"><span><div class="footer-text" align="right">"Hacking (Social Media) Data" by Dr. Matthias Bannert is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0</a></div></span></div> 
+
+
+---
+
+
+class:center,middle
+
+# Why ?
+
+<div class="my-footer"><span><div class="footer-text" align="right">"Hacking (Social Media) Data" by Dr. Matthias Bannert is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0</a></div></span></div> 
+
+
+
+
+---
+
+
+
+class:center,middle
+
+## Data Visualization & Analysis
+
+<div class="my-footer"><span><div class="footer-text" align="right">"Hacking (Social Media) Data" by Dr. Matthias Bannert is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0</a></div></span></div> 
+
+
+---
+
+## Try to Do this With Spreadsheet Software Pt. I
+
+
+
+<a href="https://twitter.com/karim_douieb/status/1181934417650040832"><img src="animated_usmap.png"></a>
+
+
+<div class="my-footer"><span><div class="footer-text" align="right">"Hacking (Social Media) Data" by Dr. Matthias Bannert is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0</a></div></span></div> 
+
+
+---
+
+## Try to Do this With Spreadsheet Software Pt. II
+
+
+<iframe width="800" height="450" src="emoji.html"></iframe>
+source: [Oversable HQ Twitter Emoji Race ](https://observablehq.com/@mbostock/twitter-emoji-race)
+
+
+<div class="my-footer"><span><div class="footer-text" align="right">"Hacking (Social Media) Data" by Dr. Matthias Bannert is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0</a></div></span></div> 
+
+
+---
+
+
+## Try to Do this With Spreadsheet Software Pt. III
+
+
+<a href="https://twitter.com/bourdakos1/status/1125436388026060801"><img src="tensorflow.png"></a>
+
+<div class="my-footer"><span><div class="footer-text" align="right">"Hacking (Social Media) Data" by Dr. Matthias Bannert is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0</a></div></span></div> 
+
+
+---
+
+
+
+
+class:center,middle
+
+# Code as a Communication Channel
+
+<img src="communication.png" width="600px">
+
+<div class="my-footer"><span><div class="footer-text" align="right">"Hacking (Social Media) Data" by Dr. Matthias Bannert is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0</a></div></span></div> 
+
+
+---
+
+
+## Code as a Communication Channel 
+
+
+<a href="https://github.com/mbannert/tstools/issues/270"><img src="gh-discuss.png" height="450px"></a>
+
+<div class="my-footer"><span><div class="footer-text" align="right">"Hacking (Social Media) Data" by Dr. Matthias Bannert is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0</a></div></span></div> 
+
+
+---
+
+
+## Reproducible Research
+
+
+.pull-left[
+
+<a href="https://github.com/mbannert/timeseriesdb/commits/v1"><img src="reproducible.png" height="450px" ></a>
+
+]
+
+.pull-right[
+  
+  <a href="https://github.com/mbannert/timeseriesdb/commit/0c543cbe302178f5d26b2ea45778fec0610c9da4"><img src="reproducible2.png" height="450px"></a>
+
+  
+]
+
+
+<div class="my-footer"><span><div class="footer-text" align="right">"Hacking (Social Media) Data" by Dr. Matthias Bannert is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0</a></div></span></div> 
+
+
+
+---
+
+
+class:center,middle
+
+# Automation & Scaling
+
+<img src="colored_factory.jpg" width="600px">
+
+<div class="my-footer"><span><div class="footer-text" align="right">"Hacking (Social Media) Data" by Dr. Matthias Bannert is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0</a></div></span></div> 
+
+
+---
+
+
+
+class:center,middle
+
+# 700 000 000+
+
+(number of tweets per day)
+
+<div class="my-footer"><span><div class="footer-text" align="right">"Hacking (Social Media) Data" by Dr. Matthias Bannert is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0</a></div></span></div> 
+
+
+---
+
+
+
+
+class:center,middle
+
+# Where to Start?
+
+<img src="dr_egghead_panics.jpg" width="600px">
+
+<div class="my-footer"><span><div class="footer-text" align="right">"Hacking (Social Media) Data" by Dr. Matthias Bannert is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0</a></div></span></div> 
+
+
+---
+
+class:center,middle
+
+
+<img src="wizardry.jpg" width="600px">
+
+Not wizardry. Carpentry.
+
+
+<div class="my-footer"><span><div class="footer-text" align="right">"Hacking (Social Media) Data" by Dr. Matthias Bannert is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0</a></div></span></div> 
+
+
+
+---
+
+class:center,middle
+
+## The Choice that Doesn't Matter
+
+<a href="https://h4sci.github.io/h4sci-book/introduction-the-choice-that-doesnt-matter.html"><img src="languagewar.jpg"></a>
+
+
+<div class="my-footer"><span><div class="footer-text" align="right">"Hacking (Social Media) Data" by Dr. Matthias Bannert is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0</a></div></span></div> 
+
+
+
+
+
+
+
+--- 
+
+
+## two languages slide
+
+
+--- 
+
+
+## Survey
+
+
+---
+
+
+## Survey Analysis
+
+
+--- 
+
+
+## Resources
+
+
+
+
+
