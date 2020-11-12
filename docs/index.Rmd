@@ -190,7 +190,7 @@ class:center,middle
 
 Not wizardry. Carpentry.
 
-<
+
 
 <div class="my-footer"><span><div class="footer-text" align="right">"Hacking (Social Media) Data" by Dr. Matthias Bannert is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0</a></div></span></div> 
 
@@ -229,7 +229,7 @@ class:center,middle
   - [CRAN](https://cran.r-project.org/) Repository /w ~15K Extension packages
   - [Shiny Web Framework](http://shiny.rstudio.com/)
 - Trend: from Domain Specific to General Purpose
-- Biggest Conference: useR! 
+- conference: useR! 
 
 ]
 
@@ -258,20 +258,9 @@ class:center,middle
 
 class:center,middle
 
-## A DIY Example of Social Media Analysis
+## Think first. Before You Tweet.
 
-
----
-
-
-## Social Media: Ruthless and Clueless at Times ...
-
-
-1. Use {rtweet} API wrapper R package to obain ~30K tweets containing *Nate Silver*
-
-2. Run text quantification methods, sentiment analysis
-
-3. See how the perception of Nate Silver changed within days
+A DIY example to explore how ruthless and clueless social media can be. 
 
 
 
@@ -432,7 +421,7 @@ gg_learn +
 
 - Free Online Book [Hacking for Social Sciences](https://h4sci.github.io/h4sci-book/)
 - [Hacking (Social Media) Data Slides](https://h4sci.github.io/h4sci-socialmedia/)
-- [Hacking (Social Media) Data Source Code](https://h4sci.github.io/h4sci-socialmedia/)
+- [Hacking (Social Media) Data Source Code](https://github.com/h4sci/h4sci-socialmedia/)
 
 
 - [Quanteda R package](https://quanteda.io/)
